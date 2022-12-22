@@ -1,0 +1,29 @@
+body
+{
+  color: white;
+  background-image: url('wallINTERROGAÇÂO.png');
+  background-position: center;
+  background-size:cover;
+}
+span
+{
+  font-size: 25px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#resultEmotionName ,#resultEmotionName2 
+{
+  color: black;
+}
+.emotionName
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
